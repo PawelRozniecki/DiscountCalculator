@@ -9,6 +9,9 @@ The application was written in Java 8 and utilizes JavaFX for making a graphical
 * JavaFX
 
 
+## Running the app
+JAR file can be found in [a link]: https://github.com/PawelRozniecki/DiscountCalculator/blob/main/out/artifacts/UnityZadanieFX/UnityZadanieFX.jar
+
 
 
 
